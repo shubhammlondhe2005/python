@@ -1,13 +1,14 @@
 # 🐍 Python → Data Science → Machine Learning → AI
 
-> A structured, hands-on journey through Python programming, essential Python libraries, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
+> A structured, hands-on journey from Python programming to Data Science, Machine Learning, Deep Learning, Generative AI, and Artificial Intelligence.
 
-
-
-
-
-
-\
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557c)](https://matplotlib.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-orange)](#-machine-learning)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Planned-red)](#-deep-learning)
+[![AI](https://img.shields.io/badge/Artificial%20Intelligence-Planned-purple)](#-artificial-intelligence)
 
 ---
 
@@ -15,37 +16,168 @@
 
 Welcome to my **Python and AI learning repository**.
 
-This repository documents my journey from **Python fundamentals to Artificial Intelligence** through continuous coding, experimentation, problem solving, and implementation.
+This repository documents my journey from **Python fundamentals to Artificial Intelligence** through continuous coding, experimentation, problem solving, and practical implementation.
 
-Instead of keeping my learning limited to tutorials and notes, I am using this repository to **write, test, organize, and improve code while learning each concept**.
+Rather than simply collecting tutorials or notes, I use this repository to **write, test, debug, organize, and improve code while learning each concept**.
 
-The repository will gradually evolve into a complete practical collection covering:
+My learning path is:
 
-**Python → NumPy → Pandas → Matplotlib → Data Analysis → Machine Learning → Deep Learning → NLP → Computer Vision → Generative AI → Artificial Intelligence**
+**Python → Python Libraries → Data Science → Machine Learning → Deep Learning → NLP → Computer Vision → Generative AI → Artificial Intelligence**
 
 ---
 
-## 🎯 Main Goal
+# 📊 Current Learning Status
 
-My goal is to build a strong foundation in Python and progressively develop the skills required to work as an:
+A quick overview of where I currently stand:
+
+| Area                       | Status           |
+| -------------------------- | ---------------- |
+| 🐍 Python Programming      | 🔄 In Progress   |
+| 🔢 NumPy                   | ✅ Fundamentals   |
+| 🐼 Pandas                  | ✅ Fundamentals   |
+| 📊 Matplotlib              | ✅ Completed      |
+| 📈 Data Science            | ⏳ Upcoming       |
+| 🤖 Machine Learning        | ⏳ Upcoming       |
+| 🧠 Deep Learning           | ⏳ Upcoming       |
+| 👁️ Computer Vision        | ⏳ Upcoming       |
+| 💬 NLP                     | ⏳ Upcoming       |
+| ✨ Generative AI            | ⏳ Upcoming       |
+| 🧠 Artificial Intelligence | ⏳ Long-Term Goal |
+
+> **Status:** `✅ Completed` · `🔄 In Progress` · `⏳ Upcoming`
+
+---
+
+# 🚀 Progress Tracker
+
+### 🐍 Python
+
+* [ ] Python Fundamentals
+* [ ] Intermediate Python
+* [ ] Object-Oriented Programming
+* [ ] Advanced Python
+
+### 📚 Python Libraries
+
+* [x] NumPy — Fundamentals
+* [x] Pandas — Fundamentals
+* [x] Matplotlib — Completed
+* [ ] Seaborn
+* [ ] SciPy
+* [ ] Statsmodels
+
+### 📈 Data Science
+
+* [ ] Statistics
+* [ ] Probability
+* [ ] Data Cleaning
+* [ ] Exploratory Data Analysis
+* [ ] Data Visualization
+* [ ] Feature Engineering
+* [ ] Statistical Analysis
+* [ ] Data Science Projects
+
+### 🤖 Machine Learning
+
+* [ ] Regression
+* [ ] Classification
+* [ ] Clustering
+* [ ] Dimensionality Reduction
+* [ ] Ensemble Learning
+* [ ] Anomaly Detection
+* [ ] Feature Selection
+* [ ] Hyperparameter Tuning
+* [ ] Model Evaluation
+* [ ] ML Projects
+
+### 🧠 Deep Learning
+
+* [ ] Neural Networks
+* [ ] ANN
+* [ ] CNN
+* [ ] RNN
+* [ ] LSTM
+* [ ] GRU
+* [ ] Autoencoders
+* [ ] Transfer Learning
+* [ ] Deep Learning Projects
+
+### 👁️ Computer Vision
+
+* [ ] Image Processing
+* [ ] Image Preprocessing
+* [ ] Image Classification
+* [ ] Feature Extraction
+* [ ] OpenCV
+* [ ] Object Detection
+* [ ] Image Segmentation
+* [ ] Transfer Learning
+* [ ] Computer Vision Projects
+
+### 💬 Natural Language Processing
+
+* [ ] Text Preprocessing
+* [ ] Tokenization
+* [ ] Stop Words
+* [ ] Stemming & Lemmatization
+* [ ] Bag of Words
+* [ ] TF-IDF
+* [ ] Word Embeddings
+* [ ] Sentiment Analysis
+* [ ] Text Classification
+* [ ] Named Entity Recognition
+* [ ] Sequence Models
+* [ ] Transformers
+* [ ] NLP Projects
+
+### ✨ Generative AI
+
+* [ ] Large Language Models
+* [ ] Transformers
+* [ ] Prompt Engineering
+* [ ] Embeddings
+* [ ] Vector Databases
+* [ ] Retrieval-Augmented Generation
+* [ ] RAG
+* [ ] Fine-Tuning
+* [ ] LLM APIs
+* [ ] AI Agents
+* [ ] Agentic AI
+* [ ] Multi-Agent Systems
+* [ ] Generative AI Projects
+
+### 🧠 Artificial Intelligence
+
+* [ ] Reinforcement Learning
+* [ ] Explainable AI
+* [ ] Responsible AI
+* [ ] AI Engineering
+* [ ] End-to-End AI Projects
+
+---
+
+# 🎯 Main Goal
+
+My long-term goal is to develop the skills required to work as an:
 
 **AI / Machine Learning Engineer**
 
-The focus is on:
+The focus is on building strong foundations in:
 
-* Strong Python fundamentals
-* Problem solving and logical thinking
+* Python programming
+* Problem solving
+* Data Structures and Algorithms
 * Scientific computing
-* Data manipulation
+* Data analysis
 * Data visualization
-* Statistics for Data Science
+* Statistics
 * Machine Learning
 * Deep Learning
-* Natural Language Processing
 * Computer Vision
+* Natural Language Processing
 * Generative AI
-* AI engineering
-* Real-world projects
+* AI Engineering
+* Real-world AI systems
 
 ---
 
@@ -110,7 +242,7 @@ The focus is on:
 * Dataclasses
 * Logging
 * Testing
-* Working with APIs
+* APIs
 * JSON
 * CSV
 * SQLite
@@ -121,7 +253,7 @@ The focus is on:
 
 # 🔢 2. NumPy
 
-The NumPy section focuses on numerical computing and array-based programming.
+NumPy is used for numerical computing and array-based operations.
 
 ### Topics Covered
 
@@ -155,7 +287,7 @@ The NumPy section focuses on numerical computing and array-based programming.
 
 # 🐼 3. Pandas
 
-The Pandas section focuses on practical data manipulation and analysis.
+Pandas is used for data manipulation, cleaning, and analysis.
 
 ### Topics Covered
 
@@ -181,17 +313,17 @@ The Pandas section focuses on practical data manipulation and analysis.
 * MultiIndex
 * Pivot Tables
 * Crosstab
-* Importing CSV / Excel / JSON
-* Exporting Data
+* CSV / Excel / JSON
+* Data Export
 * Data Analysis Projects
 
 ---
 
 # 📊 4. Matplotlib
 
-The Matplotlib section focuses on data visualization.
+Matplotlib is used for creating data visualizations.
 
-### Topics Covered
+### Topics Completed
 
 * Introduction to Matplotlib
 * Line Graphs
@@ -199,28 +331,24 @@ The Matplotlib section focuses on data visualization.
 * Histograms
 * Pie Charts
 * Scatter Plots
-* Plotting Multiple Datasets
+* Multiple Datasets
 * Saving Figures
 * Basic Subplots
 * Advanced Subplots
-
-### Planned Topics
-
-* Customization
+* Figure Titles
+* Plot Customization
 * Labels and Legends
 * Grid and Ticks
-* Multiple Axes
-* Figure Configuration
-* Annotations
-* Advanced Visualization
-* Statistical Visualization
-* Real-world Data Visualization
+
+### Status
+
+**✅ Matplotlib Completed**
 
 ---
 
 # 📈 5. Data Science
 
-After completing the core Python libraries, the repository will move toward practical Data Science.
+The next stage will focus on analyzing real-world datasets.
 
 ### Topics
 
@@ -230,8 +358,8 @@ After completing the core Python libraries, the repository will move toward prac
 * Descriptive Statistics
 * Probability
 * Correlation
-* Feature Analysis
 * Outlier Detection
+* Feature Analysis
 * Data Visualization
 * Feature Engineering
 * Data Preprocessing
@@ -250,7 +378,7 @@ After completing the core Python libraries, the repository will move toward prac
 
 # 🤖 6. Machine Learning
 
-The Machine Learning section will focus on implementing algorithms, understanding their mathematics, and applying them to real datasets.
+The Machine Learning section will focus on understanding algorithms, implementing them, and applying them to real datasets.
 
 ### Supervised Learning
 
@@ -268,7 +396,7 @@ The Machine Learning section will focus on implementing algorithms, understandin
 
 ### Unsupervised Learning
 
-* K-Means Clustering
+* K-Means
 * Hierarchical Clustering
 * DBSCAN
 * PCA
@@ -285,7 +413,7 @@ The Machine Learning section will focus on implementing algorithms, understandin
 * Hyperparameter Tuning
 * Model Evaluation
 * Model Comparison
-* Pipeline Creation
+* Pipelines
 
 ### Evaluation Metrics
 
@@ -302,15 +430,15 @@ The Machine Learning section will focus on implementing algorithms, understandin
 
 ### Main Library
 
-* Scikit-learn
+**Scikit-learn**
 
 ---
 
 # 🧠 7. Deep Learning
 
-The next stage of the repository will focus on neural networks and deep learning.
+The Deep Learning section will explore neural networks and modern deep learning architectures.
 
-### Topics
+### Fundamentals
 
 * Neural Networks
 * Perceptron
@@ -347,14 +475,13 @@ The next stage of the repository will focus on neural networks and deep learning
 ### Topics
 
 * Image Processing
-* Image Classification
 * Image Preprocessing
-* OpenCV
+* Image Classification
+* Feature Extraction
 * CNN
 * Object Detection
 * Image Segmentation
 * Transfer Learning
-* Feature Extraction
 
 ### Tools
 
@@ -423,7 +550,7 @@ The repository will eventually explore modern Generative AI systems.
 
 # 🧠 11. Artificial Intelligence
 
-The final goal is to combine the concepts learned throughout this repository into practical AI systems.
+The final objective is to combine everything learned throughout this repository into practical AI systems.
 
 ### Areas
 
@@ -462,7 +589,7 @@ The final goal is to combine the concepts learned throughout this repository int
 
 # 📂 Repository Structure
 
-The repository will gradually grow into the following structure:
+The repository will gradually evolve toward:
 
 ```text
 python/
@@ -480,31 +607,8 @@ python/
 │   └── advanced_python/
 │
 ├── numpy/
-│   ├── 1_numpy_introduction/
-│   ├── 2_array_properties/
-│   ├── 3_indexing_slicing/
-│   ├── 4_reshape_manipulation/
-│   ├── 5_advanced_numpy/
-│   ├── 6_broadcasting/
-│   ├── 7_vectorization/
-│   └── 8_missing_values/
-│
 ├── pandas/
-│   ├── introduction/
-│   ├── operations/
-│   ├── handling_missing_data/
-│   ├── merging_joining/
-│   └── sorting_aggregation/
-│
 ├── Matplotlib/
-│   ├── introduction.py
-│   ├── line_graph.py
-│   ├── Bar_chart.py
-│   ├── Histogram_chart.py
-│   ├── pie_chart.py
-│   ├── scatter_plot.py
-│   ├── subplot_basics.py
-│   └── subplot_advanced.py
 │
 ├── Data_Science/
 │   ├── statistics/
@@ -527,15 +631,12 @@ python/
 │   └── projects/
 │
 ├── Computer_Vision/
-│
 ├── NLP/
-│
 ├── Generative_AI/
-│
 └── AI_Projects/
 ```
 
-> The current repository contains the NumPy, Pandas, and Matplotlib sections; the remaining sections will be added progressively as I learn and implement them.
+> The current repository contains the NumPy, Pandas, and Matplotlib sections. New sections will be added progressively as I learn and implement them.
 
 ---
 
@@ -545,11 +646,11 @@ This repository follows a simple approach:
 
 **Learn → Code → Experiment → Break → Debug → Understand → Build**
 
-I am not trying to simply collect tutorials or copy code.
+I am not trying to simply copy tutorials.
 
-Each topic is intended to be implemented practically so that I can understand:
+For each concept, the goal is to understand:
 
-* What the concept does
+* What it does
 * Why it is used
 * How it works
 * How to implement it
@@ -558,93 +659,9 @@ Each topic is intended to be implemented practically so that I can understand:
 
 ---
 
-# 🚀 Progress Tracker
-
-### Python
-
-* [ ] Python Fundamentals
-* [ ] Intermediate Python
-* [ ] Object-Oriented Programming
-* [ ] Advanced Python
-
-### Python Libraries
-
-* [x] NumPy — Fundamentals
-* [x] Pandas — Fundamentals
-* [x] Matplotlib — Fundamentals
-* [ ] Seaborn
-* [ ] SciPy
-* [ ] Statsmodels
-
-### Data Science
-
-* [ ] Statistics
-* [ ] Probability
-* [ ] Data Cleaning
-* [ ] EDA
-* [ ] Feature Engineering
-
-### Machine Learning
-
-* [ ] Regression
-* [ ] Classification
-* [ ] Clustering
-* [ ] Dimensionality Reduction
-* [ ] Ensemble Learning
-* [ ] Model Optimization
-* [ ] ML Projects
-
-### Deep Learning
-
-* [ ] ANN
-* [ ] CNN
-* [ ] RNN
-* [ ] LSTM
-* [ ] Transfer Learning
-* [ ] Deep Learning Projects
-
-### AI
-
-* [ ] Computer Vision
-* [ ] NLP
-* [ ] Transformers
-* [ ] Generative AI
-* [ ] RAG
-* [ ] AI Agents
-* [ ] Multi-Agent AI
-* [ ] End-to-End AI Projects
-
----
-
-# 📊 Learning Progress
-
-```text
-Python
-████████░░░░░░░░░░░░  In Progress
-
-Python Libraries
-██████░░░░░░░░░░░░░░  In Progress
-
-Data Science
-██░░░░░░░░░░░░░░░░░░  Planned
-
-Machine Learning
-░░░░░░░░░░░░░░░░░░░░  Planned
-
-Deep Learning
-░░░░░░░░░░░░░░░░░░░░  Planned
-
-Artificial Intelligence
-░░░░░░░░░░░░░░░░░░░░  Planned
-```
-
-> Progress will be updated as new topics, implementations, and projects are added.
-
----
-
 # 🎯 Future Projects
 
-As the repository develops, I plan to build practical projects such as:
+As my knowledge grows, I plan to build projects such as:
 
 * Data Analysis Projects
 * Sales Prediction
@@ -660,7 +677,9 @@ As the repository develops, I plan to build practical projects such as:
 * AI Agents
 * Multi-Agent AI Systems
 
-The focus will gradually shift from **individual exercises → complete projects → production-oriented AI systems**.
+The journey will gradually move from:
+
+**Exercises → Experiments → Mini Projects → ML Projects → AI Applications**
 
 ---
 
@@ -668,9 +687,9 @@ The focus will gradually shift from **individual exercises → complete projects
 
 This repository is more than a collection of Python files.
 
-It is a record of my progression from learning programming fundamentals to building intelligent systems.
+It is a record of my progression from programming fundamentals to intelligent systems.
 
-My long-term objective is to develop the ability to take an AI problem from:
+My long-term objective is to develop the ability to take an AI problem through the complete pipeline:
 
 **Problem → Data → Processing → Model → Evaluation → Deployment → AI Application**
 
@@ -686,7 +705,7 @@ Computer Science Engineering | AI & ML
 
 ---
 
-## ⭐ Repository
+## ⭐ Support
 
 If you find this learning journey useful, consider giving the repository a ⭐.
 
